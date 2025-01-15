@@ -59,7 +59,7 @@ When preparing for scout-camp allocation, the following details should be provid
 9. **Event-Specific Requests**  
    - Troops requesting allocation during regional or national scouting events (e.g., jamborees, roverway) are prioritized for relevant locations and dates.
   
-#Algorithms Suggestion
+# Algorithms Suggestion
 1. Based on a weighted priority scoring system: (very objective) - favourite by far easy to be implemented
 Assign a weighted score to each troop based on key criteria:
    - **Previous Location Match**: +X points  
@@ -85,7 +85,7 @@ Assign a weighted score to each troop based on key criteria:
    3. Weighted Optimization
    4. Rebalancing
   
-#Proposed Phases:
+# Proposed Phases:
    1. Verification - that hard constraints are being satisfied/
    2. Preparation
    3. Allocation
