@@ -8,14 +8,23 @@ The Cyprus Scout Organisation offers the following campsites:
 4. **Platania Sub-Camp_2**
 5. **Vavatsinia**
 6. **Loumata**
-7. **Kornos**
+7. **Kornos** ?
 
-## 🏕️ Campsite Capacities
+## 🏕️ Campsite Capacities (Campers)
 
-- **Kapparis**: 84
-- **Platania**: TBD
-- **Platania Sub-Camp_1**: TBD
-- **Platania Sub-Camp_2**: TBD
-- **Vavatsinia**: 86
-- **Loumata**: 114
-- **Kornos**: TBD
+- **Kapparis**:78
+- **Platania**:104
+- **Platania Sub-Camp_1**: 60
+- **Platania Sub-Camp_2**: 30
+- **Vavatsinia**: 68
+- **Loumata**: 100
+
+
+## 🏕️ Campsite Capacities (Leaders)
+
+- **Kapparis**:6
+- **Platania**: 2
+- **Platania Sub-Camp_1**: 6
+- **Platania Sub-Camp_2**: 0
+- **Vavatsinia**: 18
+- **Loumata**: 14
